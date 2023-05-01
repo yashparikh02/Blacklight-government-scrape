@@ -1,5 +1,2 @@
-# IWspring23
+# Backlight government scrape
 repo for automated IW collection of data
-
-
-still working on uploading my files using Github LFS
